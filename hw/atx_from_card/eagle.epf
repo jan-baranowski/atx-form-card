@@ -373,6 +373,8 @@ UsedLibrary="C:/Users/Tester/Desktop/Repozytoria/git/elektronika/projekty/volvo-
 UsedLibrary="C:/Users/Tester/Desktop/Repozytoria/git/elektronika/projekty/volvo-melbus-2.git/schematics/uln-udn.lbr"
 UsedLibrary="C:/Users/Tester/Desktop/Repozytoria/git/elektronika/projekty/volvo-melbus-2.git/schematics/usblc6.lbr"
 UsedLibrary="C:/Users/Tester/Desktop/Repozytoria/git/elektronika/projekty/volvo-melbus-2.git/schematics/v-reg-custom.lbr"
+UsedLibrary="mini_din.lbr"
+UsedLibrary="con-lstb-custom.lbr"
 
 [Win_1]
 Type="Control Panel"
